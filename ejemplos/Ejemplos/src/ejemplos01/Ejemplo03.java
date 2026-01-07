@@ -17,6 +17,8 @@ public class Ejemplo03 {
                                          // obtenerSuma
         System.out.printf("El valor de la suma es: %d\n", valor);
         
+        System.out.printf(suma);
+        // La variable suma no existe, solo existe en la funcion obtenerSuma.
         // System.out.printf("El valor de la suma es: %d\n", obtenerSuma(10, 30));
     }
     
