@@ -20,7 +20,7 @@ public class Ejemplo01 {
         // String ciudad = "Loja";
         // String miCiudad = obtenerCiudadMayuscula(ciudad);
         // System.out.printf("%s\n", miCiudad);
-        obtenerMultiplicacion(7, 50);
+        obtenerMultiplicacion(8, 20);
         // 
         
         String miMensaje = obtenerMultiplicacionDos(7, 50);

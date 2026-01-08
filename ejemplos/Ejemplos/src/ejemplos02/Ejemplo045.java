@@ -17,7 +17,7 @@ public class Ejemplo045 {
         int[][] arreglo1 = {{1, 2, 3}, {3, 2, 4}, {2, 6, 2}};
         int[][] arreglo2 = {{1, 2, 3}, {2, 2, 2}, {3, 1, 2}};
         int[][] arreglo3 = llenarMatriz(arreglo1, arreglo2);
-        double [][] arreglo4 = llenarMatriz2(arreglo1, arreglo2);
+        int [][] arreglo4 = llenarMatriz2(arreglo1, arreglo2);
 
         obtenerReporte(arreglo1);
 
